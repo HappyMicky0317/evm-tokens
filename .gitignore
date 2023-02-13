@@ -1,0 +1,16 @@
+cache/
+artifacts/
+coverage*
+typechain/
+.vscode/*
+!.vscode/settings.json.default
+!.vscode/launch.json.default
+!.vscode/extensions.json.default
+node_modules/
+.env
+deployments/hardhat
+deployments/localhost
+.openzeppelin/unknown-*.json
+.secrets.json
+.DS_Store
+package-lock.json
